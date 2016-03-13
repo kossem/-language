@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  Comp_net_SNIFFER
-//
-//  Created by Роман Макаров on 25.11.15.
-//  Copyright © 2015 Roman. All rights reserved.
-//
-
 #include <iostream>
 #include <string.h>
 #include <pcap.h>
